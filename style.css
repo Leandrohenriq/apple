@@ -1,0 +1,80 @@
+body{
+    font-family: sans-serif;
+    color: rgb(88, 87, 87);
+}
+
+.menu{
+    margin: auto;
+    width: 60%;
+    padding-top: 8px;
+}
+
+.menu a{
+    padding-right: 45px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+img.apple{
+    width: 17px;
+}
+
+img.busca{
+    width: 17px;
+}
+
+img.bolsa{
+    width: 17px;
+}
+
+div.principal{
+    margin: auto;
+    width: 80%;
+}
+
+div.produto-e-itens{
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+div.produtos img{
+    padding-top: 70px;
+    width: 120px;
+}
+
+div.links-produtos a{
+    font-family: sans-serif;
+    color: rgb(26, 26, 26);
+    text-decoration: none;
+    font-size: 17px;
+    padding-right: 55px;
+    padding-left: 50px;
+}
+
+div.links-produtos a.iphone{
+    margin-left: -25px;
+}
+
+div.links-produtos a.ipad{
+    margin-left: -33px;
+}
+
+div.links-produtos a.applewatch{
+    margin-left: -46px;
+}
+
+div.links-produtos a.airpods{
+    margin-left: -60px;
+}
+
+div.links-produtos a.airtag{
+    margin-left: -60px;
+}
+
+div.links-produtos a.appletv{
+    margin-left: -60px;
+}
+
+div.links-produtos a.acessorios{
+    margin-left: -60px;
+}
