@@ -1,6 +1,7 @@
 body{
     font-family: sans-serif;
     color: rgb(88, 87, 87);
+    background-image: linear-gradient(to bottom, white, lightgray);
 }
 
 .menu{
@@ -28,8 +29,9 @@ img.bolsa{
 }
 
 div.principal{
+    border: 1px solid red;
     margin: auto;
-    width: 80%;
+    width: 90%;
 }
 
 div.produto-e-itens{
@@ -77,4 +79,22 @@ div.links-produtos a.appletv{
 
 div.links-produtos a.acessorios{
     margin-left: -60px;
+}
+
+div.retangulos{
+    display: block;
+}
+
+div.retangulos p{
+    font-size: 30px;
+}
+
+
+div.retangulos div.retangulos-produtos img{
+    width: 370px;
+    border: 1px solid red;
+    float: left;
+    padding: 20px;
+    
+    border-radius: 60px;
 }
