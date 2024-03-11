@@ -88,10 +88,10 @@ div.retangulos p{
     font-size: 30px;
 }
 
-
 div.retangulos div.retangulos-produtos img{
     width: 370px;
     float: left;
     padding: 20px;
-    border-radius: 60px;
+    padding-bottom: 60px;
+    border-radius: 100px;
 }
