@@ -11,7 +11,7 @@ body{
 }
 
 .menu a{
-    padding-right: 45px;
+    padding-right: 44px;
     text-decoration: none;
     font-size: 12px;
 }
@@ -29,7 +29,6 @@ img.bolsa{
 }
 
 div.principal{
-    border: 1px solid red;
     margin: auto;
     width: 90%;
 }
@@ -81,7 +80,7 @@ div.links-produtos a.acessorios{
     margin-left: -60px;
 }
 
-div.retangulos{
+div.retangulos{    
     display: block;
 }
 
@@ -92,9 +91,7 @@ div.retangulos p{
 
 div.retangulos div.retangulos-produtos img{
     width: 370px;
-    border: 1px solid red;
     float: left;
     padding: 20px;
-    
     border-radius: 60px;
 }
